@@ -1,4 +1,4 @@
-Command Line Scientific 7 Minute Workout.
+Command Line Scientific 7 Minute Workout
 =====================
 
 Run the [popular NYT workout](http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/) from your command line.
